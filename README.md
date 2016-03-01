@@ -35,6 +35,6 @@ Enjoy.
 ###Side Note
 
 Feel free to join the PR Konsult Project if you want to collaborate
-[PR Konsult]: http://www.PRkonsult.co.za ( Proudly South Africa )
+<http://www.PRkonsult.co.za> ( Proudly South Africa )
 
 
